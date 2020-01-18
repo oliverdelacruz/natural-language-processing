@@ -1,6 +1,6 @@
-# Reinforcement Learning Methods For Autonomous Exploration
+# Chatbot - NLU
 
-This repo is part of the NLP assignment from ETH to build a chatbot.
+This repo is part of the NLU assignment from ETH to build a chatbot.
 
 ## Description
 
